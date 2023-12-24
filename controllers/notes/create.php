@@ -1,5 +1,5 @@
 <?php
-#require_once 'Validator.php';
+
 use Core\Database;
 use Core\Validator;
 
